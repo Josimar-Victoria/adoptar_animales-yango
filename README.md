@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 <img src='https://github.com/Josimar-Victoria/adoptar_animales-yango/blob/main/Captura%20de%20pantalla%20de%202021-08-12%2003-34-09.png?raw=true' alt='img'/>
+<img src='https://github.com/Josimar-Victoria/adoptar_animales-yango/blob/main/Captura%20de%20pantalla%20de%202021-08-12%2003-34-18.png?raw=true' alt='img'/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
